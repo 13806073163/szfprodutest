@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.xxx.xxx</string>
+				<string>com.bjdreamtech.juhepay</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>client-mobile</string>
+				<string>手支付</string>
 			</dict>
 		</dict>
 	</array>
